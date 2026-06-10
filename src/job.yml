@@ -1,4 +1,4 @@
-c$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
 code: .
 command: >-
   python train-model-parameters.py
